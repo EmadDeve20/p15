@@ -13,4 +13,4 @@ You can Run this Game like this:
 python p15
 ```
 
-![screenshot][img/p15.png]
+![screenshot](img/p15.png)
