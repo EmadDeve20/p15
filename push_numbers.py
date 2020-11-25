@@ -66,7 +66,7 @@ def pushing_down(mat):
 def matrix_is_alive(mat):
     for i in range(len(mat)):
         for j in range(len(mat)-1):
-            if mat[i][j]+1 ==  mat[i][j+1]:
+            if mat[i][j]+1 !=  mat[i][j+1]:
                 return True
 
     return False
