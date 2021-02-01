@@ -13,4 +13,6 @@ You can Run this Game like this:
 python p15
 ```
 
+befor this you need 'readchar' library
+
 ![screenshot](img/p15.png)
