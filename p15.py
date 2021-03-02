@@ -15,7 +15,7 @@ import platform
 import time
 import random
 from key_manager import controler
-from pnum import prmat
+from print_number import prmat
 import push_numbers as p
 
 class Game:
