@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/bin/env python
 
 """
 This code is puzzle 15 of Game!
